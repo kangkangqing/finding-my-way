@@ -50,7 +50,7 @@ finding-my-way/
 ### [背景](background/我的背景.md) — 我是谁
 
 - **学历**：重庆某民办三本，专升本，软件工程专业，26 届应届生（在校 5 年：专科 3 年 + 本科 2 年）
-- **技能**：SpringBoot + Vue + MySQL 全套开发，了解 Linux、Docker，可独立部署项目
+- **技能**：SpringBoot + Vue + MySQL 全套开发，了解 Linux、Docker
 - **性格**：内向腼腆，但冷静稳定
 - **家庭**：四川东北农村，普通家庭
 
